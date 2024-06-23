@@ -1,0 +1,8 @@
+Version 28. Changelog:
+
+>Added Short Video Comments Copy
+>Added Dislike Button
+>Added Download Settings
+>Added SponsorBlock Settings
+>Base Update Tejas 
+>Bugs Fixed
